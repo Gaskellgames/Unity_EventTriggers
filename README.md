@@ -8,7 +8,6 @@ Code created by Gaskellgames. Available to use under MIT Licence
 Two simple C# scripts used to trigger events from Unity's inspector.
 
 The script allows users to trigger events from either a trigger target object, or from a trigger sensor object.
-Contains 2 scripts: TriggerActionSensor & TriggerActionTarget.
 
 
 /// Important
